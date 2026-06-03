@@ -15029,3 +15029,4 @@ adverty.com,1601/2182,direct,2b1a2f9cd997fcab
 adverty.com,1945/2605,direct,2b1a2f9cd997fcab
 adverty.com,2117/2800,direct,2b1a2f9cd997fcab
 adverty 912926
+fyber.com,238132,DIRECT,1ad675c9de6b5176
